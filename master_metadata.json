@@ -1,0 +1,22 @@
+{
+  "patch1": {
+    "reconstruct": "patch1.zip",
+    "ph-hash": "7cf7806fab0f20e6",
+    "engine-hash": "60413ec03c720c65",
+    "game-hash": "7b7e1c4d60615ffa",
+    "parts": [
+      "link1",
+      "link2"
+    ],
+    "segments": [
+    "patch1.zip.part000",
+    "patch1.zip.part001",
+    "patch1.zip.part002",
+    "patch1.zip.part003",
+    "patch1.zip.part004",
+    "patch1.zip.part005",
+    "patch1.zip.part006",
+    "patch1.zip.part007"
+    ]
+  }
+}
