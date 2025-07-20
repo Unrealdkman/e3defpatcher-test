@@ -3,7 +3,7 @@
     "reconstruct": "patch1.zip",
     "ph-hash": "7cf7806fab0f20e6",
     "engine-hash": "7b7e1c4d60615ffa",
-    "game-hash": "ef46db3751d8e999",
+    "games-hash": "60413ec03c720c65",
     "parts": [
       "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part000",
       "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part001",
