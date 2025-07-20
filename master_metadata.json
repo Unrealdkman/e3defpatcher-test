@@ -5,8 +5,14 @@
     "engine-hash": "60413ec03c720c65",
     "game-hash": "7b7e1c4d60615ffa",
     "parts": [
-      "link1",
-      "link2"
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part000",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part001",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part002",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part003",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part004",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part005",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part006",
+      "https://github.com/Unrealdkman/e3defpatcher-test/releases/download/e3def/patch1.zip.part007"
     ],
     "segments": [
     "patch1.zip.part000",
